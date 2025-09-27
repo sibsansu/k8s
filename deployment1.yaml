@@ -12,7 +12,7 @@ spec:
   selector:
     matchLabels:
       app: web
-  template:
+  template:                #ต้นแบบของ pod
     metadata:
       labels:
         app: web
