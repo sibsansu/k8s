@@ -7,7 +7,7 @@ data:
   database_url: "postgres://localhost/mydb"
   cache_size: "100"
   
-  # File content
+  # File content 
   app.properties: |
     server.port=8080
     server.timeout=30
